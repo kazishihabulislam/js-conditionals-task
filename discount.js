@@ -47,6 +47,7 @@ const payment2 =
 console.log(`Your Payable Amount is: ${payment2}`);
 
 // Discount Calculation based on Total Amount using
+// Improved discount calculation logic
 let orangePrice = 100;
 let applePrice = 200;
 let bananaPrice = 50;
