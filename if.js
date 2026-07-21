@@ -8,7 +8,6 @@ name === "alu"
 : `Who are you?`;
 
 console.log(massage);
-
 const studentName = "Kazi Shihabul Islam";
 
 const studentMessage = 
