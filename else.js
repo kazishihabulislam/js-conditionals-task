@@ -1,3 +1,4 @@
+// add else statement practice examples
 const rickshawFare = 200;
 
 const massage = 
