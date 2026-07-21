@@ -1,5 +1,4 @@
 const marks = 85;
-
 const grade = 
 marks >= 80 
 ? "A+" 
