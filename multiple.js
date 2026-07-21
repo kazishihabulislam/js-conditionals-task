@@ -1,7 +1,6 @@
 const salary = 25000;
 const isBCS = true;
 const hasCar = true;
-
 const result = 
 salary >= 25000 && isBCS && hasCar
 ? "su.....patro"
